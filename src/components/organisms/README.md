@@ -1,0 +1,2 @@
+# Organisms File
+Berisi satu kesatuan component yang sudah mampu menggambarkan sebuah fungsionalitas. Seluruh fungsi yang diperlukan oleh tiap komponen disalurkan oleh props yang ada -- yang akan diberikan oleh komponen induk (pages)
